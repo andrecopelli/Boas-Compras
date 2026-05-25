@@ -1,0 +1,6 @@
+{
+  "name": "Boas Compras",
+  "description": "Lista de compras inteligente que calcula o total e sugere produtos salvos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
